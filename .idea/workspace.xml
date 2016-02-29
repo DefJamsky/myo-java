@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ab082c9-e793-466b-95e0-d53b4030f308" name="Default" comment="">
+      <change type="DELETED" beforePath="E:\AebischerLe\WORKSPACE\GitHub\Forks\myo-java\target\myo-java-0.9.1-SNAPSHOT-javadoc.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\AebischerLe\WORKSPACE\GitHub\Forks\myo-java\target\myo-java-0.9.1-SNAPSHOT-sources.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/AbstractDeviceListener.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/AbstractDeviceListener.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/AbstractDeviceListener.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/AbstractDeviceListener.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/Arm.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/Arm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/Arm.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/Arm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/DeviceListener.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/DeviceListener.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/DeviceListener.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/DeviceListener.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/FirmwareVersion.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/FirmwareVersion.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/FirmwareVersion.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/FirmwareVersion.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/Hub.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/Hub.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/Hub.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/Hub.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/HubNotFoundException.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/HubNotFoundException.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/class-use/HubNotFoundException.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/class-use/HubNotFoundException.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/JniHandleNotFound.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/JniHandleNotFound.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/class-use/JniHandleNotFound.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/class-use/JniHandleNotFound.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/LockingPolicy.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/LockingPolicy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/LockingPolicy.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/LockingPolicy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/Myo.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/Myo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/Myo.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/Myo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/Pose.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/Pose.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/Pose.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/Pose.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/PoseType.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/PoseType.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/PoseType.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/PoseType.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/Quaternion.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/Quaternion.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/Quaternion.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/Quaternion.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/StreamEmgType.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/StreamEmgType.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/StreamEmgType.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/StreamEmgType.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/UnlockType.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/UnlockType.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/UnlockType.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/UnlockType.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/Vector3.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/Vector3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/Vector3.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/class-use/Vector3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/VibrationType.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/VibrationType.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/VibrationType.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/VibrationType.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/WarmupResult.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/WarmupResult.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/WarmupResult.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/WarmupResult.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/WarmupState.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/WarmupState.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/WarmupState.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/WarmupState.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/XDirection.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/XDirection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/XDirection.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/class-use/XDirection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/index.html" afterPath="$PROJECT_DIR$/target/apidocs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" afterPath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/overview-frame.html" afterPath="$PROJECT_DIR$/target/apidocs/overview-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/overview-summary.html" afterPath="$PROJECT_DIR$/target/apidocs/overview-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/package-frame.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/package-frame.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/package-frame.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/package-list" afterPath="$PROJECT_DIR$/target/javadoc-bundle-options/package-list" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/package-summary.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/package-summary.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/package-summary.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/package-tree.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/package-tree.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/package-tree.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/package-use.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/package-use.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/enums/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/package-use.html" afterPath="$PROJECT_DIR$/target/apidocs/com/thalmic/myo/exception/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/serialized-form.html" afterPath="$PROJECT_DIR$/target/apidocs/serialized-form.html" />
+    </list>
+    <ignored path="myo-java.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="myo-java" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="2.7617328">
+              <caret line="90" column="30" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="E:/WORKSPACE/Utils/JetbrainsPatchKeygen" value="2860433582000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Myo Java API" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Myo Java API" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myo-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myo-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myo-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ab082c9-e793-466b-95e0-d53b4030f308" name="Default" comment="" />
+      <created>1456390005363</created>
+      <option name="number" value="Default" />
+      <updated>1456390005363</updated>
+      <workItem from="1456390008735" duration="674000" />
+      <workItem from="1456740223440" duration="188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="862000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3342246" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32914287" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.7617328">
+          <caret line="90" column="30" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
